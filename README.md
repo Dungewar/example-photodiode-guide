@@ -23,7 +23,7 @@ This project was created to provide a compact photodiode capable of detecting mo
 - [SMB connector](https://www.digikey.com/en/products/detail/molex/0731000103/1465145)
 - [Power barrel plug](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/PJ-102AH/408448)
 - [Photodiode (OPT101P)](https://www.digikey.pl/pl/products/detail/texas-instruments/OPT101P/251177)
-- Feedback resistor (e.g. [5MΩ](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT5M10/1741449))
+- [Feedback resistor (5MΩ)](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT5M10/1741449)
 - [Optional capacitor (0.5pF)](https://www.digikey.com/en/products/detail/murata-electronics/GCM1885C2AR50BA16D/16033780)
 
 ### Power Supply
